@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ghosterm.com/assets/ghostterm-icon-C7xknxkd.png" alt="Ghosterm logo" width="96" />
+  <img src="./logo.png" alt="Ghosterm logo" width="96" />
 </p>
 
 <h1 align="center">Ghosterm</h1>
